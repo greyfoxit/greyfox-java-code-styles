@@ -77,7 +77,11 @@
     <option name="LAYOUT_SETTINGS">
       <value>
         <option name="INSERT_BLANK_LINE_BEFORE_TAG" value="false" />
-        <option name="INSERT_LINE_BREAK_AFTER_LAST_ATTRIBUTE" value="true" />
+      </value>
+    </option>
+    <option name="VALUE_RESOURCE_FILE_SETTINGS">
+      <value>
+        <option name="INSERT_LINE_BREAKS_AROUND_STYLE" value="false" />
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
@@ -121,6 +125,7 @@
     </extensions>
   </Objective-C-extensions>
   <XML>
+    <option name="XML_KEEP_BLANK_LINES" value="1" />
     <option name="XML_ALIGN_ATTRIBUTES" value="false" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -197,7 +202,6 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
     <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
-    <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
     <option name="ALIGN_MULTILINE_FOR" value="false" />
     <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
